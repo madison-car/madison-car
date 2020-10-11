@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi Everyone, I'm Madison 👋
+*********
 <!--
 **madison-car/madison-car** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
