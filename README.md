@@ -1,6 +1,6 @@
 ### Hi Everyone, I'm Madison 👋
 *********
-<!--
+
 **madison-car/madison-car** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a Bioinformatician in-training working on projects in Bladder Cancer, HIV and web app development. 
