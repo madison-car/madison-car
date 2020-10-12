@@ -1,12 +1,14 @@
 
+### Hi Everyone 👋
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+## I'm a Bioinformatian In-training and Researcher!!
 
+-    I’m currently working on projects in Bladder Cancer, HIV and Web App Development 
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
-### Hi Everyone, I'm Madison 👋
 *********
 
-I'm a Bioinformatician in-training working on projects in Bladder Cancer, HIV and web app development. 
-Currently, I work at Case Western Reserve University as a Research Assistant 2. For more information on me,check out https://www.linkedin.com/in/madison-carpenter-87500519b/.  
+## Connect with Me! 
 
-
+[linkedin]: 
