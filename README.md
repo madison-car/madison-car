@@ -1,4 +1,4 @@
-!# [Nice Image] (<a href='https://www.freepik.com/photos/background'>Background photo created by onlyyouqj - www.freepik.com</a>)
+!# [Nice Image] (https://www.freepik.com/photos/background)
 
 
 
