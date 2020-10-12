@@ -1,7 +1,7 @@
 
 ![Header](https://unsplash.com/photos/78A265wPiO4"Header")
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](/images/logo.png)
 
 
 ### Hi Everyone 👋
