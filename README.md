@@ -1,7 +1,7 @@
+<h1 align="center">
+ <img src="https://unsplash.com/photos/ll_fMb-A0TM" />
+</h1>
 
-![Header](https://unsplash.com/photos/78A265wPiO4"Header")
-
-![Image of Yaktocat](/images/logo.png)
 
 
 ### Hi Everyone 👋
