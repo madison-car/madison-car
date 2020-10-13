@@ -2,7 +2,7 @@
 
 ### Hi Everyone 👋
 
-## I'm a Bioinformatian In-training and Researcher!!
+## I'm a Bioinformatician In-training and Researcher!!
 
 -    I’m currently working on projects in Bladder Cancer, HIV and Web App Development 
 - 👯 I’m looking to collaborate with other content creators
