@@ -1,12 +1,17 @@
 !![Github_header](https://user-images.githubusercontent.com/64904079/95803858-26951480-0ccf-11eb-8846-f00d8a3cf1c1.png)
 
-### Hi Everyone 👋
+### Hi Y'all, 👋
 
 ## I'm a Bioinformatician In-training and Researcher!!
 
--    I’m currently working on projects in Bladder Cancer, HIV and Web App Development 
+- Currently working on: 
+  1. :woman_scientist::dna: Benchtop: Studying the effects of Hypobaria on the Immune System
+  2. :desktop_computer:Informatics: 
+        1. Bladder Cancer
+        2. HIV
+        3. Web App Development 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- :desktop_computer: Goals: Contribute more to Open Source projects
 
 *********
 ## Languages I've Used 
@@ -15,4 +20,4 @@
 <!--wi*quL3fcV-->
 ## Connect with Me! 
 
-[linkedin]: 
+[linkedin](https://www.linkedin.com/in/madison-carpenter-87500519b/)
