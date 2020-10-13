@@ -9,7 +9,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 *********
-
+## Languages I've Used 
+![R](https://user-images.githubusercontent.com/64904079/95804665-5b09d000-0cd1-11eb-9d23-97914cf3380c.jpeg)
+![Python](https://user-images.githubusercontent.com/64904079/95804706-78d73500-0cd1-11eb-9959-ce70cf8e45b6.png)
 ## Connect with Me! 
 
 [linkedin]: 
