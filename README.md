@@ -4,11 +4,10 @@
 ### Hi Y'all, I'm a Bioinformatician In-training and Researcher!!
 
 - Currently working on: 
-  1. :woman_scientist::dna: Benchtop: Studying the effects of Hypobaria on the Immune System
+  1. :woman_scientist::dna: Benchtop: Studying the effects of Hypobaria on muscle injury and repair
   2. :desktop_computer:Informatics: 
-        1. Bladder Cancer
-        2. HIV
-        3. Web App Development 
+        1. HIV
+        2. ABCG2
 - 👯 I’m looking to collaborate with other content creators
 - :desktop_computer: Goals: Contribute more to Open Source projects
 
