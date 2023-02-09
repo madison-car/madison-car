@@ -7,7 +7,7 @@
   1. :woman_scientist::dna: Benchtop: Studying the effects of Hypobaria on muscle injury and repair
   2. :desktop_computer:Informatics: 
         1. HIV
-        2. ABCG2
+        2. Alzheimer's Disease
 - 👯 I’m looking to collaborate with other content creators
 - :desktop_computer: Goals: Contribute more to Open Source projects
 
