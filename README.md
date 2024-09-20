@@ -1,4 +1,4 @@
-![Github_header](https://github.com/user-attachments/assets/e5ac084c-5a78-4ced-8c06-43972160d276)
+<img src="https://github.com/user-attachments/assets/e5ac084c-5a78-4ced-8c06-43972160d276" alt="Github Header" width="1200">
 
 # Hello, I'm Madison 👋
 
