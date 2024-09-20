@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/7ed6800a-dc11-4da0-be2a-9c7e2dcd73b4" alt="Github Header" width="14000">
+<img src="https://github.com/user-attachments/assets/4ad3c61e-264e-4999-9eb0-bf4f9bda0369" alt="Github Header" width="14000">
 
 # Hello, I'm Madison 👋
 
