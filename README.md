@@ -1,10 +1,11 @@
-<img src="https://github.com/user-attachments/assets/7205ba01-7b85-428d-8028-f508211da1e0" alt="Github Header" width="14000">
+<img src="https://github.com/user-attachments/assets/7ed6800a-dc11-4da0-be2a-9c7e2dcd73b4" alt="Github Header" width="14000">
 
 # Hello, I'm Madison 👋
 
 Hi there! I’m a bioinformatician focused on Alzheimer’s Disease 🧠, Amyotrophic Lateral Sclerosis 🧩, and Multiple Sclerosis 🧬. I dive into data to uncover how these neurodegenerative diseases tick, aiming to find new ways to tackle them. I love blending multi-omic data and building models to get to the heart of disease mechanisms.
 
-Check out my organization link for tools and insights into my work. Always up for a chat about bioinformatics!
+Check out my organization link for tools and insights into my work. Always up for a chat about bioinformatics!!
+
 
 ## 🏢 Organizations
 
