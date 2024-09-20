@@ -1,16 +1,17 @@
-![Github_header](https://user-images.githubusercontent.com/64904079/95803858-26951480-0ccf-11eb-8846-f00d8a3cf1c1.png)
+![Github_header](https://github.com/user-attachments/assets/e5ac084c-5a78-4ced-8c06-43972160d276)
 
 # Hello, I'm Madison 👋
 
 Hi there! I’m a bioinformatician focused on Alzheimer’s Disease 🧠, Amyotrophic Lateral Sclerosis 🧩, and Multiple Sclerosis 🧬. I dive into data to uncover how these neurodegenerative diseases tick, aiming to find new ways to tackle them. I love blending multi-omic data and building models to get to the heart of disease mechanisms.
 
-Check out my organization link for tools and insights into my work. Always up for a chat about bioinformatics or disease research!
+Check out my organization link for tools and insights into my work. Always up for a chat about bioinformatics!
 
 ## 🏢 Organizations
+
 - [The Butovsky Lab](https://github.com/The-Butovsky-Lab)
 
 ## :desktop_computer: Current Projects
-- **Alzheimer's Disease** 🧠
+- **Alzheimer's Disease** 🧠 
 - **Multiple Sclerosis** 🧬
 - **ALS** 🧩
 
@@ -28,6 +29,11 @@ Check out my organization link for tools and insights into my work. Always up fo
 
 ## 📈 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=madison-car&show_icons=true&theme=radical" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madison-car&layout=compact&theme=radical" width="400" height="200" /> 
+
+## Citations
+
+Rosenzweig, N., Kleemann, K.L., Rust, T. et al. Sex-dependent APOE4 neutrophil–microglia interactions drive cognitive impairment in Alzheimer’s disease. Nat Med (2024). https://doi.org/10.1038/s41591-024-03122-3
+
 
 ## 📫 🌐 How to reach me
 Feel free to reach out to me via [email](mailto:mmcarpenter@bwh.harvard.edu) or connect with me on social media!
